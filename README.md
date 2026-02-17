@@ -23,7 +23,7 @@ After using this consistently, you start finding issues yourself. That's the goa
 
 **Get a free Groq API key**
 
-Go to https://console.groq.com/keys, sign up (no credit card required), and create an API key.
+Go to https://console.groq.com/keys, sign up,  and create an API key.
 
 **Install dependencies**
 ```bash
